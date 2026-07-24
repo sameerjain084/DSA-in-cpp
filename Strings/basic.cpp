@@ -3,34 +3,28 @@
 using namespace std;
 
 int main() {
-    /*string str ="apna college";
+    string str ="apna college";
     cout<<str<<endl;
    
     str = "hello";
-    cout<<str<<endl;*/
+    cout<<str<<endl;
 
-    /*string str1 = "sameer";
+    string str1 = "sameer";
     string str2 = "jain";
-    cout<<(str1+str2)<<endl;*/
+    cout<<(str1+str2)<<endl;
 
-    /*string str;
+    string str;
     getline(cin,str);
 
-    cout<<str<<endl;*/
-    /*string str = "apna college";
+    cout<<str<<endl;
+    string str = "apna college";
 
     for(char ch:str) {
         cout<< ch<< " ";
     }
-    cout<<endl;*/
-    /*string str = "apna college";
+    cout<<endl;
+    string str = "apna college";
     reverse(str.begin(), str.end());
-    cout<<str<<endl;*/
-
-
-    
-
+    cout<<str<<endl;
     return 0;
-
-
 }
